@@ -1,6 +1,12 @@
 <h1 align="center">Achmad Hafiz | Software Engineer</h1>
-<h3 align="center"> Hi There!👋 I'm Hafiz an Information System graduate with a big passion in software engineering field! Acquired knowledge and hands-on experience with various web development technologies and frameworks. Currently i'm eager to explore new skills and technologies related to software engineering field to broaden my knowledge and sharpen my skills further!
-</h3>
+<h3 align="center"> I'm Hafiz and currently focusing on 
+  <br />
+  code 💻
+  <br />
+  code 🌩️ 
+  <br />
+  code 🤯
+</h3 >
 
 <div align="center">
   <a href="https://www.linkedin.com/in/achmad-hafiz-dev/" target="_blank">
